@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color:gainsboro;
+    
+}
+
+h1{
+    margin-top: 50px;
+}
+
+#rendered-element{
+    margin: 30px 0;
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkslategrey;
+}
+
